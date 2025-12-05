@@ -36,19 +36,19 @@
 
   <div style="text-align: center;">
     <a href="YOUR_ANILIST_LINK_HERE" target="_blank">
-      <img src="images/v1xite-anilist.png" alt="AniList" width="100%" style="border-radius: 8px;">
+      <img src="images/v1xite-anilist.png" alt="AniList" width="20%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="YOUR_TIKTOK_LINK_HERE" target="_blank">
-      <img src="images/v1xite-tiktok.png" alt="TikTok" width="100%" style="border-radius: 8px;">
+      <img src="images/v1xite-tiktok.png" alt="TikTok" width="20%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="YOUR_PINTEREST_LINK_HERE" target="_blank">
-      <img src="images/v1xite-pinterest.png" alt="Pinterest" width="100%" style="border-radius: 8px;">
+      <img src="images/v1xite-pinterest.png" alt="Pinterest" width="20%" style="border-radius: 8px;">
     </a>
   </div>
 
