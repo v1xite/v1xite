@@ -1,7 +1,7 @@
-<h1 align="center">Hey <img src="gifs/Totoro-cat-bus.gif" height="30px" width="30px"> I'm v1xite</h1>
+<h1 align="center">Hey <img src="gifs/Totoro-cat-bus.gif" height="35px" width="35px"> I'm v1xite</h1>
 
 <div align="center">
-  <img src="gifs/Totoro-sleeping.gif" width="700px" height="280px"> 
+  <img src="gifs/Totoro-sleeping.gif" width="700px" height="330px"> 
 </div>
 
 ---
