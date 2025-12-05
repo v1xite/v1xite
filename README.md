@@ -30,7 +30,7 @@
 
   <div style="text-align: center;">
     <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
-      <img src="images/v1xite-instagram.png" alt="Instagram" width="100%" style="border-radius: 8px;">
+      <img src="images/v1xite-instagram.png" alt="Instagram" width="10%" style="border-radius: 8px;">
     </a>
   </div>
 
