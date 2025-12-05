@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZqdDBjNzNidm9wbmw5b3F1ejRlbmppejhneDVmcjMzYTl5cnluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" height="30px" width="30px"> I'm v1xite</h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl6NmNybjNmeDdrb2lkcDlhYmxweW1qNXl3OHlmcmRwemx3NThjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MdgKtLJ7rMw9wYWvH/giphy.gif" width="700px" height="300px"> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl6NmNybjNmeDdrb2lkcDlhYmxweW1qNXl3OHlmcmRwemx3NThjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MdgKtLJ7rMw9wYWvH/giphy.gif" width="700px" height="250px"> 
 </div>
 
 ---
