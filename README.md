@@ -30,29 +30,22 @@
 </h3>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 400px; margin: 10px auto;">
 
-  <div style="text-align: center;">
-    <a href="https://www.instagram.com/v1xite" target="_blank">
-      <img src="images/v1xite-instagram.png" alt="Instagram" width="100%" style="border-radius: 8px;">
-    </a>
-  </div>
+<div align="center">
 
-  <div style="text-align: center;">
-    <a href="https://anilist.co/user/v1xite" target="_blank">
-      <img src="images/v1xite-anilist.png" alt="AniList" width="100%" style="border-radius: 8px;">
-    </a>
-  </div>
+  <a href="https://www.instagram.com/v1xite" target="_blank">
+    <img src="images/v1xite-instagram.png" alt="Instagram" width="180" />
+  </a> 
+  &nbsp;&nbsp; <a href="https://anilist.co/user/v1xite" target="_blank">
+    <img src="images/v1xite-anilist.png" alt="AniList" width="180" />
+  </a>
 
-  <div style="text-align: center;">
-    <a href="https://www.tiktok.com/@v1xite" target="_blank">
-      <img src="images/v1xite-tiktok.png" alt="TikTok" width="100%" style="border-radius: 8px;">
-    </a>
-  </div>
+  <br /> <br /> <a href="https://www.tiktok.com/@v1xite" target="_blank">
+    <img src="images/v1xite-tiktok.png" alt="TikTok" width="180" />
+  </a> 
+  &nbsp;&nbsp; <a href="https://www.pinterest.com/v1xite" target="_blank">
+    <img src="images/v1xite-pinterest.png" alt="Pinterest" width="180" />
+  </a>
 
-  <div style="text-align: center;">
-    <a href="https://www.pinterest.com/v1xite" target="_blank">
-      <img src="images/v1xite-pinterest.png" alt="Pinterest" width="100%" style="border-radius: 8px;">
-    </a>
-  </div>
 </div>
 
 ---
