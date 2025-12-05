@@ -26,32 +26,35 @@
 
 ## 🌐 Socials:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 400px; margin: 20px auto;">
+<h3 id="socials">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-GitHub-Profile/main/gifs/globe.gif" alt="Globe Icon" width="20px" style="vertical-align: middle;">
+  Socials:
+</h3>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 400px; margin: 10px auto;">
 
   <div style="text-align: center;">
     <a href="https://www.instagram.com/v1xite" target="_blank">
-      <img src="images/v1xite-instagram.png" alt="Instagram" width="20%" style="border-radius: 8px;">
+      <img src="images/v1xite-instagram.png" alt="Instagram" width="100%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="https://anilist.co/user/v1xite" target="_blank">
-      <img src="images/v1xite-anilist.png" alt="AniList" width="20%" style="border-radius: 8px;">
+      <img src="images/v1xite-anilist.png" alt="AniList" width="100%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="https://www.tiktok.com/@v1xite" target="_blank">
-      <img src="images/v1xite-tiktok.png" alt="TikTok" width="20%" style="border-radius: 8px;">
+      <img src="images/v1xite-tiktok.png" alt="TikTok" width="100%" style="border-radius: 8px;">
     </a>
   </div>
 
   <div style="text-align: center;">
     <a href="https://www.pinterest.com/v1xite" target="_blank">
-      <img src="images/v1xite-pinterest.png" alt="Pinterest" width="20%" style="border-radius: 8px;">
+      <img src="images/v1xite-pinterest.png" alt="Pinterest" width="100%" style="border-radius: 8px;">
     </a>
   </div>
-
 </div>
 
 ---
