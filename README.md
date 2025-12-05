@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZqdDBjNzNidm9wbmw5b3F1ejRlbmppejhneDVmcjMzYTl5cnluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" height="30px" width="30px"> I'm v1xite</h1> 
 
-<h2 align="center" <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl1ODVkeHhibG40eTh5ZWhuYWw1MTV6aDNqcHhiZzA0MzAyMnZtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFUfaGz2zpBza/giphy.gif" height="100px" width="400px" </h2>
+<h2 align="center" <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl1ODVkeHhibG40eTh5ZWhuYWw1MTV6aDNqcHhiZzA0MzAyMnZtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFUfaGz2zpBza/giphy.gif" height="100px" width="400px"> </h2>
 
 # 💫 About Me:
 📚 Learning  
