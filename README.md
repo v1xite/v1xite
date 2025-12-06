@@ -42,9 +42,7 @@
 
 ### Random IT Facts
 
-## 🧠 Daily IT Fact
-
-<img src="random-facts-generator-bc7ez45ek-vfxites-projects.vercel.app" alt="A random IT fact that updates automatically" />
+<img src="https://random-facts-generator-two.vercel.app/api/fact" alt="A random IT fact that updates automatically" />
 
 ### ✍️ Random Dev Quote
 
