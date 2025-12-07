@@ -43,8 +43,3 @@
 ### 🌊 Random IT Facts
 
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact)
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=v1xite&limit=5&theme=dark&combine_all_yearly_contributions=true)
