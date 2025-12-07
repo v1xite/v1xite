@@ -42,8 +42,16 @@
 
 ### Random IT Facts
 
-<img src="https://random-facts-generator-two.vercel.app/api/fact" alt="A random IT fact that updates automatically" />
+### Random IT Facts
 
+<img src="https://random-facts-generator-two.vercel.app/api/fact?t=1" alt="A random IT fact that updates automatically" />
+
+
+
+
+
+
+.......
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
