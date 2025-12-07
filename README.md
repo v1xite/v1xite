@@ -46,6 +46,17 @@
 
 <img src="https://random-facts-generator-two.vercel.app/api/fact?t=1" alt="A random IT fact that updates automatically" />
 
+### 🔹 Random Facts Generator API
+`GET` random fact as SVG:
+
+**Live API:**  
+https://random-facts-generator-two.vercel.app/api/fact
+
+**Backup mirrors:**  
+https://random-facts-generator-git-main-vfxites-projects.vercel.app/api/fact  
+https://random-facts-generator-mlzoazztt-vfxites-projects.vercel.app/api/fact
+
+
 
 
 
