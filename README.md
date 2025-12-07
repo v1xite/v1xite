@@ -45,13 +45,7 @@
 
 **Live API:**  
 ### 🔹 Random Fact
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?r=1)
-
-
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?u=1)
-
-
-
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=1)
 
 
 .......
