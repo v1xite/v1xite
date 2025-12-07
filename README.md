@@ -44,7 +44,7 @@
 
 ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=1) 
 
-![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=2)
+![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?t=123)
 
 
 .......
