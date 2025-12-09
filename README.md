@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="gifs/Totoro-cat-bus.gif" height="35px" width="35px"> I'm v1xite</h1>
+<h1 align="center">Hey <img src="gifs/totoro-ani.gif" height="35px" width="35px"> I'm v1xite</h1>
 
 <div align="center">
   <img src="gifs/Totoro-sleeping.gif" width="670px" height="330px"> 
