@@ -45,3 +45,8 @@
 <div align="center">
   ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
 </div>
+
+<div align="center">
+  <img src="https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue" />
+</div>
+
