@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="gifs/totoro-jump.gif" height="35px" width="35px"> I'm v1xite</h1>
 
 <div align="center">
-  <img src="gifs/Totoro-sleeping.gif" width="670px" height="330px"> 
+  <img src="gifs/jojo_sturdust.gif" width="670px" height="330px"> 
 </div>
 
 ---
