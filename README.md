@@ -8,22 +8,6 @@
 
 # 💫 About Me:
 
-* **📚 Learning** Currently exploring mobile app development and improving my overall engineering skills.
-
-* **💡 Did You Know?** Nikola Tesla created a wireless remote-controlled boat in 1898.
-
-* **🎯 Interests** LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.
-
-* **🌍 Languages**
-    * Kazakh — Native 
-    * English — B2/B3 
-    * Español — Poco 
-    * Türkçe — Küçük 
-
-* **⭐ Favorite Anime** GTO (Great Teacher Onizuka)
-
-# 💫 About Me:
-
 <table>
   <tr>
     <td>
