@@ -22,6 +22,32 @@
 
 * **⭐ Favorite Anime** GTO (Great Teacher Onizuka)
 
+# 💫 About Me:
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><strong>📚 Learning:</strong> Currently exploring mobile app development and improving my overall engineering skills.</li>
+        <li><strong>💡 Did You Know?</strong> Nikola Tesla created a wireless remote-controlled boat in 1898.</li>
+        <li><strong>🎯 Interests:</strong> LLMs, System Design, and creating smooth, minimalistic UI/UX experiences.</li>
+        <li><strong>🌍 Languages:</strong>
+          <ul>
+            <li>Kazakh — Native</li>
+            <li>English — B2/B3</li>
+            <li>Español — Poco</li>
+            <li>Türkçe — Küçük</li>
+          </ul>
+        </li>
+        <li><strong>⭐ Favorite Anime:</strong> GTO (Great Teacher Onizuka)</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle">
+      <img src="gifs/pix-bat.gif" width="150px" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🌐 Socials:
