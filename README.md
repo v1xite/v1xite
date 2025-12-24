@@ -21,7 +21,7 @@
          • Español — Poco<br>
          • Türkçe — Küçük
       </p>
-      <p><strong>⭐ Favorite Anime</strong> GTO (Great Teacher Onizuka)</p>
+      <p><strong>⭐ Favorite Animes</strong> </p>
       <br>
     </td>
     <td align="center" valign="middle" width="200">
@@ -31,6 +31,21 @@
 </table>
 
 ---
+
+
+<p><strong>⭐ Favorite Animes</strong></p>
+
+<div align="center">
+  <img src="src/gifs/Liyfez-fav-ani.gif" width="600" alt="My Favorite Animes">
+</div>
+
+
+
+<p><strong>⭐ Favorite Animes</strong></p>
+
+![Favorite Animes GIF](src/gifs/Liyfez-fav-ani.gif)
+
+
 
 ## 🌐 Socials:
 <div align="left">
