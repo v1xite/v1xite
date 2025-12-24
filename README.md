@@ -33,22 +33,11 @@
 ---
 
 
-<p><strong>⭐ Favorite Animes</strong></p>
-
-<div align="center">
-  <img src="gifs/Liyfez-fav-ani.gif" width="600" alt="My Favorite Animes">
-</div>
-
-
-
-<p><strong>⭐ Favorite Animes</strong></p>
-
-![Favorite Animes GIF](gifs/Liyfez-fav-ani.gif)
-
 <p>
   <strong>⭐ Favorite Animes</strong>
   <img src="gifs/Liyfez-fav-ani.gif" height="30" alt="Anime GIF"/>
 </p>
+
 
 ## 🌐 Socials:
 <div align="left">
