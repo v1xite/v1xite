@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="gifs/totoro-jump.gif" height="35px" width="35px"> I'm Liyfez </h1>
+=<h1 align="center">Hey <img src="gifs/kirby.gif" height="35px" width="35px"> I'm Liyfez </h1>
 
 <div align="center">
   <img src="gifs/jojo-stardust.gif" width="670px" height="330px"> 
