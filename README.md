@@ -1,7 +1,7 @@
 =<h1 align="center">Hey <img src="gifs/totoro-ani.gif" width="25px"> I'm Liyfez </h1>
 
 <div align="center">
-  <img src="gifs/jojo-stardust.gif" width="670px" height="330px"> 
+  <img src="gifs/nature-ani-night.gif" width="670px" height="330px"> 
 </div>
 
 ---
