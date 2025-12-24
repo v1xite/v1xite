@@ -36,14 +36,14 @@
 <p><strong>⭐ Favorite Animes</strong></p>
 
 <div align="center">
-  <img src="src/gifs/Liyfez-fav-ani.gif" width="600" alt="My Favorite Animes">
+  <img src="gifs/Liyfez-fav-ani.gif" width="600" alt="My Favorite Animes">
 </div>
 
 
 
 <p><strong>⭐ Favorite Animes</strong></p>
 
-![Favorite Animes GIF](src/gifs/Liyfez-fav-ani.gif)
+![Favorite Animes GIF](gifs/Liyfez-fav-ani.gif)
 
 
 
