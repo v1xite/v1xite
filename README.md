@@ -45,7 +45,10 @@
 
 ![Favorite Animes GIF](gifs/Liyfez-fav-ani.gif)
 
-
+<p>
+  <strong>⭐ Favorite Animes</strong>
+  <img src="gifs/Liyfez-fav-ani.gif" height="30" alt="Anime GIF"/>
+</p>
 
 ## 🌐 Socials:
 <div align="left">
