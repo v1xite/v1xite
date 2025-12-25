@@ -34,7 +34,7 @@
 
 
 <p>
-  <strong>⭐ Favorite Animes</strong>
+  <strong>⭐ Favorite Anime <strong> Golden boy </strong>
   <img src="gifs/Liyfez-fav-ani.gif" height="30" alt="Anime GIF"/>
 </p>
 
