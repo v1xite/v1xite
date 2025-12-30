@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="gifs/" width="25px"> I'm Liyfez </h1>
+<h1 align="center">Hey I'm Liyfez </h1>
 
 <div align="center">
   <img src="gifs/nature-ani-night.gif" width="670px" > 
